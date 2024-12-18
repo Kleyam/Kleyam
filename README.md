@@ -32,7 +32,7 @@ Desenvolvedor Front-end apaixonado por tecnologia e inovação. Com apenas 20 an
 
 - Desenvolvimento de aplicações web modernas e responsivas utilizando React, Node.js e CSS3.
 - Criação de APIs RESTful eficientes e escaláveis. 
-- Implementação de interfaces de usuário intuitivas com HTML5 e CSS3. 
+- Implementação de interfaces de usuário intuitivas com HTML5, CSS3 e Tailwind CSS
 - Gestão de infraestrutura em nuvem usando AWS e Docker. - Colaboração em equipes ágeis, participando de sprints e revisões de código. 
 
 ## Objetivos 
