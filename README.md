@@ -4,7 +4,7 @@
 
 👨🏽‍💻 **Profissão:** `Desenvolvedor Front-end`
 
-🏡 **Localização:** Vinhedo, São Paulo, Brasil
+🏡 **Localização:** Brasil
 
 Desenvolvedor Front-end apaixonado por tecnologia e inovação. Com apenas 20 anos, já acumulei uma boa experiência em diversas linguagens de programação e projetos desafiadores e estou sempre em busca de novos desafios e aprendizados.
 
