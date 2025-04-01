@@ -1,14 +1,14 @@
-### Oi, Eu sou Kleyam Guthierrez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > ### Bem-vindo(a) ao meu GitHub!
 
 ### 🎓 Sobre Mim:
 
 🌍 Baseado no Brasil.<br/>
-📚 Atualmente cursando Desenvolvimento de Sistemas na (UNIP)..<br/>
-💻 Desenvolvedor Web Front-end apaixonado por criar soluções elegantes..<br/>
+📚 Cursando Análise e Desenvolvimento de Sistemas na (Universidade São Francisco - USF)..<br/>
+💻 Desenvolvedor Web Back-end.<br/>
   
 ### 👩‍💻 Interesse Profissional:
 
-🖥️ Profundamente fascinado por tudo em ciência da computação - atualmente estudando mais sobre algoritmos e estruturas de dados..<br/>
+🖥️ Profundamente fascinado por tudo em ciência da computação - atualmente estudando sobre algoritmos e estruturas de dados.<br/>
 📱 Desenvolvendo aplicações web intuitivos e impactantes.<br/>
 🛠️ Explorando continuamente novas tecnologias e metodologias em engenharia de software.<br/>
 
