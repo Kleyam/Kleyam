@@ -5,10 +5,9 @@ Olá! Eu me chamo Kleyam Guthierrez, sou um **Engenheiro de Software** especiali
 ### 🎓 Sobre Mim:
      
 💻 **Desenvolvedor** Back-end | 🏗️ Arquitetura de Software & Performance                
-📖 Sempre explorando novas tecnologias e compartilhando conhecimento                   
+📖 Explorando novas tecnologias e compartilhando conhecimento                   
 🏆 Foco em **boas práticas** como **SOLID, Clean Code e Design Patterns**  
-🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São     
-Francisco (USF)**
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Francisco (USF)**
  
   
 ### 👩‍💻 Interesse Profissional:
