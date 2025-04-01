@@ -5,9 +5,11 @@ Sou um **Engenheiro de Software** especializado em **desenvolvimento Back-end**,
 ### 🎓 Sobre Mim:
 
 📍 **Localização:** Brasil  
-🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Francisco (USF)**  
+🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São     
+      Francisco (USF)**  
 💻 **Profissão:** Desenvolvedor Back-end  
-⚡ **Interesses:** Arquitetura de software, otimização de algoritmos e design de banco de dados  🏆 **Diferenciais:** Aplicação de **boas práticas** como **SOLID, Clean Code e Design Patterns**  
+⚡ **Interesses:** Arquitetura de software, otimização de algoritmos e design de banco de dados 🏆 **Diferenciais:** Aplicação de **boas práticas** como **SOLID, Clean Code e Design 
+    Patterns**  
 📖 **Aprendizado Contínuo:** Sempre explorando novas tecnologias e compartilhando conhecimento  
   
 ### 👩‍💻 Interesse Profissional:
