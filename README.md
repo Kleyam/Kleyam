@@ -1,5 +1,8 @@
 # Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >   
 
+[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleyamrocha@gmail.com)](kleyamrocha@gmail.com)
+
+
 Olá! Eu me chamo Kleyam Guthierrez, sou um **Engenheiro de Software** especializado em **desenvolvimento Back-end**, com foco em **arquitetura de software, escalabilidade e eficiência de código**. Minha expertise abrange **JavaScript, Node.js, Python, SQL e estrutura de dados**, aplicando soluções robustas e escaláveis para sistemas complexos.
 
 ### 🎓 Sobre Mim:
