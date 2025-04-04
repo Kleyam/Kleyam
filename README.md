@@ -30,19 +30,10 @@ Engenheiro de Software Back-end apaixonado por arquitetura e sistemas escalávei
 - **Design Patterns**: Implementação de padrões de projeto para solucionar problemas recorrentes
 - **Arquitetura Escalável**: Desenvolvimento de sistemas que crescem sem perder desempenho
 
-### 🚀 O que estou fazendo atualmente
-- 📚 Aprofundando conhecimentos em arquiteturas modernas
-- 🌱 Explorando novas tecnologias de alto desempenho
-- 🤝 Buscando colaborações em projetos inovadores
-
 ### 📫 Entre em contato
 - 💬 Conecte-se para colaborações ou uma boa conversa técnica!
 - 📧 Email: **kleyamrocha@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kleyam-guthierrez-ba3b61234/)
-
-<div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&hide_border=true&title_color=6633cc&text_color=ffffff&bg_color=0d1117" />
-</div>
 
 > "Código limpo faz coisas complexas parecerem simples."
 
