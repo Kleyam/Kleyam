@@ -1,38 +1,54 @@
-# 👋 Olá, eu sou Kleyam Guthierrez  
+<div align="center">
+  <a href="https://github.com/kleyamguthierrez">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&color=6633cc&width=500&lines=Kleyam+Guthierrez;Engenheiro+de+Software+Backend;Especialista+em+Python+%26+AWS" alt="Typing SVG" />
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleyam-guthierrez-ba3b61234/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kleyamrocha@gmail.com)
-
----
-
-## 💻 Desenvolvedor Backend
-Desenvolvedor de Software focado em **arquitetura robusta, APIs escaláveis e sistemas eficientes**.  
-Experiência em **Python, SQL, AWS e JavaScript**, construindo soluções de alta performance e confiabilidade.
-
----
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<div align="center">
+  <p>Desenvolvedor Backend apaixonado por construir sistemas escaláveis e orientados a dados na nuvem.</p>
+  <br>
+  <a href="https://www.linkedin.com/in/kleyam-guthierrez-ba3b61234/"><img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"></a>
+  <a href="mailto:kleyamrocha@gmail.com"><img src="https://img.shields.io/badge/-Email-6633cc?style=for-the-badge&logo=Gmail&logoColor=white" height="30"></a>
+</div>
 
 ---
 
-## 🔎 Sobre mim
-- 🏗️ **Arquitetura de software** e escalabilidade como foco central  
-- 📊 Experiência em **otimização de queries** e **performance de sistemas**  
-- 🔄 Vivência em **DevOps e automação** para integração contínua  
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas – USF**  
+### 🚀 Stacks & Tecnologias
+
+Aqui estão as principais tecnologias com as quais tenho trabalhado:
+
+| Categoria         | Tecnologias                                           |
+|-------------------|-------------------------------------------------------|
+| **Linguagens** | `Python` `SQL` `JavaScript`                           |
+| **Frameworks** | `FastAPI` `Django` `Pandas`                           |
+| **Cloud & DevOps**| `AWS` `Docker` `Git` `CI/CD`                          |
+| **Bancos de Dados**| `PostgreSQL` `MySQL`                                  |
 
 ---
 
-## 📫 Contato
-- 📧 **kleyamrocha@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kleyam-guthierrez-ba3b61234/)  
+### 📊 Minhas Estatísticas no GitHub
+
+Esta é uma forma de visualizar minha atividade e engajamento com a plataforma.
+
+<div align="center">
+  <a href="https://github.com/kleyamguthierrez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_DO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_DO_GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
-> "Código limpo faz coisas complexas parecerem simples."
+### 💡 Princípios & Filosofia de Desenvolvimento
+
+-   📐 **Arquitetura & Design:** Foco em criar soluções robustas e de fácil manutenção, aplicando princípios como **SOLID** e **Design Patterns** para garantir a escalabilidade dos sistemas.
+
+-   ✨ **Qualidade de Código:** Acredito que um bom software é escrito para pessoas. Pratico **Clean Code** para garantir que o código seja legível, testável e eficiente.
+
+-   ⚡ **Performance & Escalabilidade:** Experiência em otimização de consultas SQL e arquitetura de sistemas para suportar crescimento sem degradar a performance.
+
+---
+
+### 📫 Vamos nos conectar!
+
+Estou sempre aberto a novas oportunidades, colaborações ou um bom papo sobre tecnologia. Sinta-se à vontade para entrar em contato!
