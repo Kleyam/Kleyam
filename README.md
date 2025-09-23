@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/kleyamguthierrez">
+  <a href="https://github.com/kleyam">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&color=6633cc&width=500&lines=Kleyam+Guthierrez;Engenheiro+de+Software+Backend;Especialista+em+Python+%26+AWS" alt="Typing SVG" />
   </a>
 </div>
@@ -7,7 +7,7 @@
 <div align="center">
   <p>Desenvolvedor Backend apaixonado por construir sistemas escaláveis e orientados a dados na nuvem.</p>
   <br>
-  <a href="https://www.linkedin.com/in/kleyam-guthierrez-ba3b61234/"><img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"></a>
+  <a href="https://www.linkedin.com/in/kleyam"><img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"></a>
   <a href="mailto:kleyamrocha@gmail.com"><img src="https://img.shields.io/badge/-Email-6633cc?style=for-the-badge&logo=Gmail&logoColor=white" height="30"></a>
 </div>
 
