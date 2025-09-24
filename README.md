@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kleyam">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&color=6633cc&width=500&lines=Kleyam+Guthierrez;Engenheiro+de+Software+Backend;Especialista+em+Python+%26+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&color=6633cc&width=500&lines=Kleyam+Guthierrez;Desenvolvedor+de+Software+Backend;Especialista+em+Python+%26+SQL" alt="Typing SVG" />
   </a>
 </div>
 
