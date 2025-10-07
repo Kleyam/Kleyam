@@ -1,79 +1,60 @@
-<h1 align="left">Kleyam Guthierrez</h1>
-<h3 align="left">Backend Software Engineer | Python & Data Architecture</h3>
+# Kleyam Guthierrez
+
+### Principal Backend Engineer // System Architect
+
+> Meu foco principal é a arquitetura e implementação de sistemas de backend distribuídos, onde escalabilidade, resiliência e integridade dos dados são premissas fundamentais. Eu projeto e construo software para o longo prazo, enfatizando código limpo e de fácil manutenção que resolve problemas de negócio tangíveis.
+
+---
+
+### :: DOMÍNIOS DE EXPERTISE
 
 <br>
 
-<p align="left">
-Especialista na construção de sistemas distribuídos e data-intensive, com foco em arquitetura limpa, performance e escalabilidade. Transformo requisitos de negócio complexos em soluções de backend robustas e de fácil manutenção na nuvem.
-</p>
+**// Arquitetura & System Design**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kleyam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kleyamrocha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  </div>
+* Padrões de Arquitetura (Microservices, Event-Driven, SOA, Monoliths Modulares)
+* Domain-Driven Design (DDD) & Princípios SOLID
+* API Design & Gateway Patterns (REST, gRPC)
+* Análise de Trade-offs (Consistência vs. Disponibilidade, Custo vs. Performance)
 
----
+<br>
 
-### 🛠️ Core Toolkit
+**// Ecossistema de Desenvolvimento (Python)**
 
-<div align="left">
-  <p>
-    <strong>Linguagens:</strong><br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </p>
-  <p>
-    <strong>Backend & Frameworks:</strong><br>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </p>
-  <p>
-    <strong>Bancos de Dados:</strong><br>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </p>
-  <p>
-    <strong>Cloud & DevOps:</strong><br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  </p>
-</div>
+* **Frameworks & Tooling:** FastAPI, Django, Pydantic, SQLAlchemy
+* **Processamento Assíncrono:** Celery, Message Queues (RabbitMQ, SQS)
+* **Qualidade & Testes:** Pytest, TDD, BDD, Geração de Métricas de Cobertura
+
+<br>
+
+**// Persistência de Dados & Caching**
+
+* **Bancos Relacionais:** PostgreSQL, MySQL (Modelagem, Otimização de Queries, Indexing)
+* **Caching Strategies:** Redis (Cache-Aside, Write-Through), Otimização de Latência
+* **Concorrência e Transações:** Níveis de Isolamento, Prevenção de Deadlocks
+
+<br>
+
+**// Infraestrutura & DevOps**
+
+* **Containerização & Orquestração:** Docker, Docker Compose
+* **Cloud (AWS):** Compute (EC2), Storage (S3), Banco de Dados (RDS), Filas (SQS)
+* **CI/CD & Automação:** GitHub Actions (Workflows, Secrets Management)
+* **Infraestrutura como Código (IaC):** Terraform (Conceitos)
+* **Observability:** Logging Estruturado, Métricas (Prometheus), Tracing (Conceitos)
 
 ---
 
-### 🚀 Featured Projects
+### :: FILOSOFIA DE ENGENHARIA
 
-<table>
-  <tr valign="top">
-    <td width="50%">
-      <h3>Project Name 1 (Seu Projeto Estrela)</h3>
-      <p>Descrição concisa do projeto, focada no problema de negócio. Ex: "API RESTful para um sistema de e-commerce, projetada com uma arquitetura de microsserviços para garantir alta disponibilidade e escalabilidade."</p>
-      <p><strong>Stack:</strong> FastAPI, PostgreSQL, Docker, JWT</p>
-      <a href="LINK_PARA_O_REPOSITORIO">Ver Código</a> │ 
-      <a href="LINK_PARA_A_DEMO">Live Demo</a>
-    </td>
-    <td width="50%">
-      <h3>Project Name 2</h3>
-      <p>Descrição concisa de outro projeto importante. Ex: "ETL pipeline para processamento de dados de vendas, otimizado para performance com Pandas e agendado para execução diária na AWS."</p>
-      <p><strong>Stack:</strong> Python, Pandas, AWS Lambda, S3</p>
-      <a href="LINK_PARA_O_REPOSITORIO">Ver Código</a>
-    </td>
-  </tr>
-</table>
+1.  **Pragmatismo acima de Dogma.** Selecionar a ferramenta e o padrão corretos para o problema específico, compreendendo e comunicando os trade-offs envolvidos.
+2.  **Código é um Passivo.** Escrever o mínimo de código necessário para resolver um problema de forma eficaz. A simplicidade é o maior facilitador da manutenibilidade.
+3.  **Automatizar por Princípio.** Da validação de builds e deploys (CI/CD) ao provisionamento de infraestrutura (IaC). A consistência e a confiabilidade devem ser programáticas.
+4.  **Ownership de Ponta a Ponta.** Construir e operar sistemas com a mentalidade de quem será chamado às 3 da manhã. Isso se traduz em testes robustos, logging detalhado e monitoramento proativo.
 
 ---
-
-### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyam&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyam&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://www.linkedin.com/in/kleyam">LinkedIn</a> • 
+  <a href="mailto:kleyamrocha@gmail.com">Email</a>
 </p>
