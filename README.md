@@ -1,54 +1,131 @@
 <div align="center">
-  <a href="https://github.com/kleyam">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&color=6633cc&width=500&lines=Kleyam+Guthierrez;Desenvolvedor+de+Software+Backend;Especialista+em+Python+%26+SQL" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/kleyam">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&color=3399FF&width=600&lines=Bem+Vindo(a)+ao+meu+GitHub;Olá+me+chamo+Kleyam+Guthierrez;Desenvolvedor+de+Software+Backend" alt="Typing SVG" />
+  </a>
 </div>
+
+<p>
+Me chamo Kleyam. Engenheiro de Software Backend com foco na construção de sistemas escaláveis, resilientes e orientados a dados. Tenho como princípio desenvolver soluções que unem desempenho, arquitetura bem definida e clareza de código sempre guiado por boas práticas de engenharia e uma visão sistêmica do produto. Meu objetivo é transformar complexidade técnica em soluções simples, eficientes e sustentáveis.
+</p>
 
 <div align="center">
-  <p>Desenvolvedor Backend apaixonado por construir sistemas escaláveis e orientados a dados na nuvem.</p>
-  <br>
-  <a href="https://www.linkedin.com/in/kleyam"><img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"></a>
-  <a href="mailto:kleyamrocha@gmail.com"><img src="https://img.shields.io/badge/-Email-6633cc?style=for-the-badge&logo=Gmail&logoColor=white" height="30"></a>
+  <a href="https://www.linkedin.com/in/kleyam" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="mailto:kleyamrocha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-6633cc?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+  </a>
 </div>
 
 ---
 
-### 🚀 Stacks & Tecnologias
+## Stacks & Tecnologias
 
-Aqui estão as principais tecnologias com as quais tenho trabalhado:
+<div>
 
-| Categoria         | Tecnologias                                           |
-|-------------------|-------------------------------------------------------|
-| **Linguagens** | `Python` `SQL` `JavaScript`                           |
-| **Frameworks** | `FastAPI` `Django` `Pandas`                           |
-| **Cloud & DevOps**| `AWS` `Docker` `Git` `CI/CD`                          |
-| **Bancos de Dados**| `PostgreSQL` `MySQL`                                  |
+  <!-- 🧠 Linguagens -->
+  <h3>Aplicações</h3>
+  
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB">
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6">
+    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26">
+    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6">
+    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+  </picture>
+</p>
+
+  <!-- ☁️ Cloud & DevOps -->
+  <h3>☁️ Cloud & DevOps</h3>
+  
+  <p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED">
+    <img alt="Docker" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=git&logoColor=F05032">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=git&logoColor=F05032">
+    <img alt="Git" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=git&logoColor=F05032">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=github&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=github&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=linux&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=linux&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=linux&logoColor=white">
+  </picture>
+</p>
+
+  <!-- 🗄️ Bancos de Dados -->
+  <h3>🗄️ Bancos de Dados</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
+  </p>
+
+  <!-- 📐 Arquitetura & Engenharia -->
+  <h3>📐 Arquitetura & Engenharia</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Clean%20Architecture-333?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOLID%20Principles-333?style=for-the-badge&logo=codesandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Design%20Patterns-333?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  </p>
+
+</div>
+
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
-Esta é uma forma de visualizar minha atividade e engajamento com a plataforma.
+<p align="center">
+  <a href="https://github.com/kleyam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyam&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Vamos nos Conectar!
+
+<p align="center">
+Sempre aberto a novas oportunidades, colaborações e boas conversas sobre tecnologia, arquitetura e dados.<br>
+📬 <b>Entre em contato e vamos construir algo incrível juntos!</b>
+</p>
 
 <div align="center">
-  <a href="https://github.com/kleyamguthierrez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyam&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kleyam">
+    <img src="https://img.shields.io/badge/LinkedIn-6633cc?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kleyamrocha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6633cc?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
-
----
-
-### 💡 Princípios & Filosofia de Desenvolvimento
-
--   📐 **Arquitetura & Design:** Foco em criar soluções robustas e de fácil manutenção, aplicando princípios como **SOLID** e **Design Patterns** para garantir a escalabilidade dos sistemas.
-
--   ✨ **Qualidade de Código:** Acredito que um bom software é escrito para pessoas. Pratico **Clean Code** para garantir que o código seja legível, testável e eficiente.
-
--   ⚡ **Performance & Escalabilidade:** Experiência em otimização de consultas SQL e arquitetura de sistemas para suportar crescimento sem degradar a performance.
-
----
-
-### 📫 Vamos nos conectar!
-
-Estou sempre aberto a novas oportunidades, colaborações ou um bom papo sobre tecnologia. Sinta-se à vontade para entrar em contato!
