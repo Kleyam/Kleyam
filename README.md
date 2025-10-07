@@ -1,60 +1,54 @@
-# Kleyam Guthierrez
+<div align="center">
+  <a href="https://github.com/kleyam">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&color=6633cc&width=500&lines=Kleyam+Guthierrez;Desenvolvedor+de+Software+Backend;Especialista+em+Python+%26+SQL" alt="Typing SVG" />
+  </a>
+</div>
 
-### Principal Backend Engineer // System Architect
-
-> Meu foco principal é a arquitetura e implementação de sistemas de backend distribuídos, onde escalabilidade, resiliência e integridade dos dados são premissas fundamentais. Eu projeto e construo software para o longo prazo, enfatizando código limpo e de fácil manutenção que resolve problemas de negócio tangíveis.
-
----
-
-### :: DOMÍNIOS DE EXPERTISE
-
-<br>
-
-**// Arquitetura & System Design**
-
-* Padrões de Arquitetura (Microservices, Event-Driven, SOA, Monoliths Modulares)
-* Domain-Driven Design (DDD) & Princípios SOLID
-* API Design & Gateway Patterns (REST, gRPC)
-* Análise de Trade-offs (Consistência vs. Disponibilidade, Custo vs. Performance)
-
-<br>
-
-**// Ecossistema de Desenvolvimento (Python)**
-
-* **Frameworks & Tooling:** FastAPI, Django, Pydantic, SQLAlchemy
-* **Processamento Assíncrono:** Celery, Message Queues (RabbitMQ, SQS)
-* **Qualidade & Testes:** Pytest, TDD, BDD, Geração de Métricas de Cobertura
-
-<br>
-
-**// Persistência de Dados & Caching**
-
-* **Bancos Relacionais:** PostgreSQL, MySQL (Modelagem, Otimização de Queries, Indexing)
-* **Caching Strategies:** Redis (Cache-Aside, Write-Through), Otimização de Latência
-* **Concorrência e Transações:** Níveis de Isolamento, Prevenção de Deadlocks
-
-<br>
-
-**// Infraestrutura & DevOps**
-
-* **Containerização & Orquestração:** Docker, Docker Compose
-* **Cloud (AWS):** Compute (EC2), Storage (S3), Banco de Dados (RDS), Filas (SQS)
-* **CI/CD & Automação:** GitHub Actions (Workflows, Secrets Management)
-* **Infraestrutura como Código (IaC):** Terraform (Conceitos)
-* **Observability:** Logging Estruturado, Métricas (Prometheus), Tracing (Conceitos)
+<div align="center">
+  <p>Desenvolvedor Backend apaixonado por construir sistemas escaláveis e orientados a dados na nuvem.</p>
+  <br>
+  <a href="https://www.linkedin.com/in/kleyam"><img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"></a>
+  <a href="mailto:kleyamrocha@gmail.com"><img src="https://img.shields.io/badge/-Email-6633cc?style=for-the-badge&logo=Gmail&logoColor=white" height="30"></a>
+</div>
 
 ---
 
-### :: FILOSOFIA DE ENGENHARIA
+### 🚀 Stacks & Tecnologias
 
-1.  **Pragmatismo acima de Dogma.** Selecionar a ferramenta e o padrão corretos para o problema específico, compreendendo e comunicando os trade-offs envolvidos.
-2.  **Código é um Passivo.** Escrever o mínimo de código necessário para resolver um problema de forma eficaz. A simplicidade é o maior facilitador da manutenibilidade.
-3.  **Automatizar por Princípio.** Da validação de builds e deploys (CI/CD) ao provisionamento de infraestrutura (IaC). A consistência e a confiabilidade devem ser programáticas.
-4.  **Ownership de Ponta a Ponta.** Construir e operar sistemas com a mentalidade de quem será chamado às 3 da manhã. Isso se traduz em testes robustos, logging detalhado e monitoramento proativo.
+Aqui estão as principais tecnologias com as quais tenho trabalhado:
+
+| Categoria         | Tecnologias                                           |
+|-------------------|-------------------------------------------------------|
+| **Linguagens** | `Python` `SQL` `JavaScript`                           |
+| **Frameworks** | `FastAPI` `Django` `Pandas`                           |
+| **Cloud & DevOps**| `AWS` `Docker` `Git` `CI/CD`                          |
+| **Bancos de Dados**| `PostgreSQL` `MySQL`                                  |
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kleyam">LinkedIn</a> • 
-  <a href="mailto:kleyamrocha@gmail.com">Email</a>
-</p>
+### 📊 Minhas Estatísticas no GitHub
+
+Esta é uma forma de visualizar minha atividade e engajamento com a plataforma.
+
+<div align="center">
+  <a href="https://github.com/kleyamguthierrez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyam&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 💡 Princípios & Filosofia de Desenvolvimento
+
+-   📐 **Arquitetura & Design:** Foco em criar soluções robustas e de fácil manutenção, aplicando princípios como **SOLID** e **Design Patterns** para garantir a escalabilidade dos sistemas.
+
+-   ✨ **Qualidade de Código:** Acredito que um bom software é escrito para pessoas. Pratico **Clean Code** para garantir que o código seja legível, testável e eficiente.
+
+-   ⚡ **Performance & Escalabilidade:** Experiência em otimização de consultas SQL e arquitetura de sistemas para suportar crescimento sem degradar a performance.
+
+---
+
+### 📫 Vamos nos conectar!
+
+Estou sempre aberto a novas oportunidades, colaborações ou um bom papo sobre tecnologia. Sinta-se à vontade para entrar em contato!
