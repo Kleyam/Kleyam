@@ -54,34 +54,8 @@ Me chamo Kleyam. Engenheiro de Software Backend com foco na construção de sist
   </picture>
 </p>
 
-  <!-- ☁️ Cloud & DevOps -->
-  <h3>☁️ Cloud & DevOps</h3>
-  
-  <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED">
-    <img alt="Docker" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=git&logoColor=F05032">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=git&logoColor=F05032">
-    <img alt="Git" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=git&logoColor=F05032">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=github&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=github&logoColor=white">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=linux&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=linux&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/0D1117?style=for-the-badge&logo=linux&logoColor=white">
-  </picture>
-</p>
-
   <!-- 🗄️ Bancos de Dados -->
-  <h3>🗄️ Bancos de Dados</h3>
+  <h3> Bancos de Dados</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
@@ -91,7 +65,7 @@ Me chamo Kleyam. Engenheiro de Software Backend com foco na construção de sist
   </p>
 
   <!-- 📐 Arquitetura & Engenharia -->
-  <h3>📐 Arquitetura & Engenharia</h3>
+  <h3> Arquitetura & Engenharia</h3>
   <p>
     <img src="https://img.shields.io/badge/Clean%20Architecture-333?style=for-the-badge&logo=arch-linux&logoColor=white" />
     <img src="https://img.shields.io/badge/SOLID%20Principles-333?style=for-the-badge&logo=codesandbox&logoColor=white" />
@@ -103,7 +77,7 @@ Me chamo Kleyam. Engenheiro de Software Backend com foco na construção de sist
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/kleyam">
@@ -114,11 +88,11 @@ Me chamo Kleyam. Engenheiro de Software Backend com foco na construção de sist
 
 ---
 
-## 🤝 Vamos nos Conectar!
+## Vamos nos Conectar!
 
 <p align="center">
 Sempre aberto a novas oportunidades, colaborações e boas conversas sobre tecnologia, arquitetura e dados.<br>
-📬 <b>Entre em contato e vamos construir algo incrível juntos!</b>
+ <b>Entre em contato e vamos construir algo incrível juntos!</b>
 </p>
 
 <div align="center">
