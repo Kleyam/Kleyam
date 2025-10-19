@@ -14,7 +14,7 @@ Entre em contato comigo aqui: <a href="mailto:kleyamrocha@gmail.com" target="__b
 
 ---
 
-### Redes Sociais
+## Redes Sociais
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kleyanguthierrez)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kleyam/)
 <a href="mailto:kleyamrocha@gmail.com">
