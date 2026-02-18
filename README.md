@@ -10,7 +10,7 @@ Entre em contato comigo aqui: <a href="mailto:kleyamrocha@gmail.com" target="__b
 
 ## Stacks & Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,js,nextjs,react,nodejs,mongodb,postgres,tailwind,aws,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,angular,nodejs,postgres,azure,aws,docker,git)](https://skillicons.dev)
 
 ---
 
