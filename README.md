@@ -1,6 +1,6 @@
 **Backend Engineer · C# · .NET · ASP.NET Core**
 
-I build backend systems that are designed to last — not just to work.  
+I build backend systems that are designed to last not just to work.  
 My focus is on clean architecture, clear boundaries, and code that other engineers can maintain without asking questions.
 
 ---
