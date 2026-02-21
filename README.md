@@ -1,32 +1,36 @@
-## 👩🏽‍💻 **Kleyam Guthierrez Santana Da Silva Rocha**
+**Backend Engineer · C# · .NET · ASP.NET Core**
 
-```Desenvolvedor de Software```
-
-Desenvolvedor Backend especializado em construir sistemas escaláveis e bem estruturados, apaixonado por esportes e por transformar ideias em soluções reais por meio de código limpo e arquitetura sólida.
-
-Entre em contato comigo aqui: <a href="mailto:kleyamrocha@gmail.com" target="__blank">kleyamrocha@gmail.com</a>
+I build backend systems that are designed to last — not just to work.  
+My focus is on clean architecture, clear boundaries, and code that other engineers can maintain without asking questions.
 
 ---
 
-## Stacks & Tecnologias
+### What I work with
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,angular,nodejs,postgres,azure,aws,docker,git)](https://skillicons.dev)
+**Primary stack**  
+C# · .NET · ASP.NET Core · SQL Server · PostgreSQL
+
+**Infrastructure & delivery**  
+AWS · Docker · REST APIs · CI/CD pipelines
+
+**What I care about beyond the stack**  
+System design decisions · Observability · Resilience patterns · API contracts that don't break consumers
 
 ---
 
-## Redes Sociais
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kleyanguthierrez)
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kleyam/)
-<a href="mailto:kleyamrocha@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+### How I think about software
+
+Backend engineering isn't about writing endpoints.  
+It's about designing systems where failure is expected, behavior is predictable, and the next engineer doesn't need to read your mind.
+
+I work to make that the default, not the exception.
+
 ---
 
-## Estatísticas do GitHub
+### Currently
 
-<p align="center">
-  <a href="https://github.com/kleyam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyam&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
+Deepening my knowledge in distributed systems design and event-driven architecture patterns with .NET focused on building systems that scale without becoming impossible to reason about.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/kleyamguthierrez) · [Email](mailto:kleyamrocha@gmail.com)
